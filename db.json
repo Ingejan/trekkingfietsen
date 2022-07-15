@@ -6,7 +6,7 @@
         "type": "forest",
         "frameSize": 63,
         "tireSize": 28,
-        "carriers": true,
+        "carriers": "true",
         "imageSrc":
           "https://fastly.jwwb.nl/public/l/d/i/temp-qnploteonbeijxyczlfm/vytxxy/20220207_132557.jpg",
       },
@@ -16,7 +16,7 @@
         "type": "XR1",
         "frameSize": 54,
         "tireSize": 28,
-        "carriers": true,
+        "carriers": "true",
         "imageSrc":
           "https://fastly.jwwb.nl/public/l/d/i/temp-qnploteonbeijxyczlfm/wvy97h/20220207_134603.jpg",
       },
@@ -26,7 +26,7 @@
         "type": "dames",
         "frameSize": 53,
         "tireSize": 28,
-        "carriers": true,
+        "carriers": "true",
         "imageSrc":
           "https://fastly.jwwb.nl/public/l/d/i/temp-qnploteonbeijxyczlfm/dwnp6b/20220207_134639.jpg",
       }
