@@ -29,6 +29,36 @@
         "carriers": "true",
         "imageSrc":
           "https://fastly.jwwb.nl/public/l/d/i/temp-qnploteonbeijxyczlfm/dwnp6b/20220207_134639.jpg"
+      },
+      {
+        "id": 4,
+        "brand": "Giant",
+        "type": "Tourer",
+        "frameSize": 60,
+        "tireSize": 28,
+        "carriers": "true",
+        "imageSrc":
+          "https://fastly.jwwb.nl/public/l/d/i/temp-qnploteonbeijxyczlfm/m5s41i/20220207_135145.jpg"
+      },
+      {
+        "id": 5,
+        "brand": "Dawes",
+        "type": "Street Harp",
+        "frameSize": 58,
+        "tireSize": 28,
+        "carriers": "true",
+        "imageSrc":
+          "https://fastly.jwwb.nl/public/l/d/i/temp-qnploteonbeijxyczlfm/ck5j6e/20220211_142944.jpg"
+      },
+      {
+        "id": 6,
+        "brand": "Koga Miyata",
+        "type": "Randonneur",
+        "frameSize": 59,
+        "tireSize": 28,
+        "carriers": "true",
+        "imageSrc":
+          "https://fastly.jwwb.nl/public/l/d/i/temp-qnploteonbeijxyczlfm/to6dfb/20220207_135548.jpg"
       }
   ]
 }
