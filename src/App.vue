@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
+    <router-link to="/">Bikes</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
   <router-view />
@@ -15,6 +15,12 @@
   color: #2c3e50;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 nav {
   padding: 30px;
 }
@@ -26,5 +32,10 @@ nav a {
 
 nav a.router-link-exact-active {
   color: #42b983;
+}
+
+h4 {
+  font-size: 20px;
+  margin: 0 0 6px;
 }
 </style>
